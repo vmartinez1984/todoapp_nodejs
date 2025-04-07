@@ -40,7 +40,9 @@ Donde estan todas la reglas de negocio, validaciones, consumo de servicios etc. 
 Son las clases o modelos, representación simplificada de la realidad la cual se pretende llegar o copiar.
 El modelo es el mapeo con la tabla de la base de datos.
 
-```classDiagram
+```mermaid
+classDiagram
+
 class tarea{
     int Id
     string titulo
