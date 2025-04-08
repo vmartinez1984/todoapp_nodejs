@@ -15,3 +15,5 @@ class TareaModel{
         this.usuarioId = usuarioId
     }
 }
+
+module.exports = TareaModel
